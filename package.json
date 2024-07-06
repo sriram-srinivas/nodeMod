@@ -1,0 +1,22 @@
+{
+  "name": "nodemod",
+  "version": "1.0.0",
+  "description": "node learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram-srinivas/nodeMod.git"
+  },
+  "author": "logan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriram-srinivas/nodeMod/issues"
+  },
+  "homepage": "https://github.com/sriram-srinivas/nodeMod#readme",
+  "devDependencies": {
+    "nodemon": "3.1.4"
+  }
+}
